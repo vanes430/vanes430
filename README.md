@@ -11,7 +11,6 @@
 ```yaml
 username: vanes430
 class: "Minecraft Technician / Web Explorer"
-fav_colors: ["#9E00FF", "#0078D4", "#E60026", "#00C853"]
 hobby: "Break & Build Minecraft Servers"
 quote: "Code what you love, love what you build."
 ```
