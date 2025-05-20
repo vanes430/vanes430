@@ -1,7 +1,7 @@
 <h1 align="center">🎮 𝚆𝙴𝙻𝙲𝙾𝙼𝙴 ~ ようこそ 🎮</h1>
 
 <p align="center">
-  <img src="https://i.imgur.com/ezry4R7.gif" alt="Banner" width="100%" />
+  <img src="https://i.imgur.com/ezry4R7.gif" alt="Banner" width="70%" />
 </p>
 
 ---
@@ -22,8 +22,6 @@ quote: "Code what you love, love what you build."
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=vanes430&show_icons=true&theme=tokyonight&bg_color=00000000" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanes430&layout=compact&theme=tokyonight&bg_color=00000000" />
 </p>
 
 ---
@@ -31,11 +29,10 @@ quote: "Code what you love, love what you build."
 ### 🔗 𝘾𝙊𝙉𝙉𝙀𝘾𝙏
 
 - 💬 Discord: `vanes430#xxxx`
-- 🌐 Website: `soon™`
-- 📦 Hosting: [minecraft.pawhost.shop](https://minecraft.pawhost.shop)
+- 🌐 Website: `soon`
 
 <p align="center">
-  <img src="https://media.tenor.com/92GV7I4HtS8AAAAC/anime-type.gif" width="200" />
+  <img src="https://media.tenor.com/Lp97Wy2LPdEAAAAm/nonono-anime-no.webp" width="200" />
 </p>
 
 ---
