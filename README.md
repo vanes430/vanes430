@@ -1,7 +1,7 @@
 <h1 align="center">🎮 𝚆𝙴𝙻𝙲𝙾𝙼𝙴 ~ ようこそ 🎮</h1>
 
 <p align="center">
-  <img src="https://i.imgur.com/ezry4R7.gif" alt="Banner" width="70%" />
+  <img src="https://media.tenor.com/MSlshZS6CVYAAAAM/satoru-gojo---correndo.gif" alt="Banner" width="70%" />
 </p>
 
 ---
