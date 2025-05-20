@@ -28,7 +28,7 @@ quote: "Code what you love, love what you build."
 
 ### 🔗 𝘾𝙊𝙉𝙉𝙀𝘾𝙏
 
-- 💬 Discord: `vanes430#xxxx`
+- 💬 Discord: `shimazu_009`
 - 🌐 Website: `soon`
 
 <p align="center">
