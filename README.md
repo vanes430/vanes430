@@ -32,9 +32,8 @@ quote: "Code what you love, love what you build."
 
 <p align="center">
   <img src="https://media.tenor.com/Lp97Wy2LPdEAAAAm/nonono-anime-no.webp" width="150" style="filter: invert(1);" />
-  <img src="https://media.tenor.com/gOqySBZJP4MAAAAm/vtuber-vtuber-headpat.webp" width="150" style="filter: invert(1);" />
   <img src="https://camo.githubusercontent.com/e17968bb89b29a08743b9ec922a80170299608581239a9d8c5ba5c337776c516/68747470733a2f2f6d656469612e74656e6f722e636f6d2f642d6c7a374e753658326f414141414d2f626f636368692d7468652d726f636b2d626f636368692e676966" width="150" style="filter: invert(1);" />
-  <img src="https://media.tenor.com/-eF-VC6QB_8AAAAm/nikke-nikke-doro.webp" width="150" style="filter: invert(1);" />
+  <img src="https://media.tenor.com/Ce6USnj-dhAAAAAM/scarseven.gif" width="150" style="filter: invert(1);" />
   <img src="https://media.tenor.com/yvkm0qscqEMAAAA1/furina-genshin-impact.webp" width="150" style="filter: invert(1);" />
 </p>
 
