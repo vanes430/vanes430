@@ -33,6 +33,8 @@ quote: "Code what you love, love what you build."
 <p align="center">
   <img src="https://media.tenor.com/Lp97Wy2LPdEAAAAm/nonono-anime-no.webp" width="150" style="filter: invert(1);" />
   <img src="https://media.tenor.com/gOqySBZJP4MAAAAm/vtuber-vtuber-headpat.webp" width="150" style="filter: invert(1);" />
+  <img src="https://media.tenor.com/d-lz7Nu6X2oAAAAM/bocchi-the-rock-bocchi.gif" width="150" style="filter: invert(1);" />
+  <img src="https://media.tenor.com/-eF-VC6QB_8AAAAm/nikke-nikke-doro.webp" width="150" style="filter: invert(1);" />
   <img src="https://media.tenor.com/yvkm0qscqEMAAAA1/furina-genshin-impact.webp" width="150" style="filter: invert(1);" />
 </p>
 
