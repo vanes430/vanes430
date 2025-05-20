@@ -31,7 +31,9 @@ quote: "Code what you love, love what you build."
 - 🌐 Website: `soon`
 
 <p align="center">
-  <img src="https://media.tenor.com/Lp97Wy2LPdEAAAAm/nonono-anime-no.webp" width="200" />
+  <img src="https://media.tenor.com/Lp97Wy2LPdEAAAAm/nonono-anime-no.webp" width="150" style="filter: invert(1);" />
+  <img src="https://media.tenor.com/gOqySBZJP4MAAAAm/vtuber-vtuber-headpat.webp" width="150" style="filter: invert(1);" />
+  <img src="https://media.tenor.com/yvkm0qscqEMAAAA1/furina-genshin-impact.webp" width="150" style="filter: invert(1);" />
 </p>
 
 ---
