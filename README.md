@@ -1,11 +1,7 @@
 <h1 align="center">🎮 𝚆𝙴𝙻𝙲𝙾𝙼𝙴 ~ ようこそ 🎮</h1>
 
 <p align="center">
-  <img src="https://i.imgur.com/NnJtdOE.gif" alt="Banner" width="100%" />
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Konnichiwa!+I’m+Vanes!;Minecraft+Server+Ninja+⚔️;Simpel+JS+Craftsman+🛠️;Let's+build+something+cool!&center=true&width=500&height=25&color=9E00FF" />
+  <img src="https://i.imgur.com/ezry4R7.gif" alt="Banner" width="100%" />
 </p>
 
 ---
