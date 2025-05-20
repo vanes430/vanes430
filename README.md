@@ -1,7 +1,7 @@
 <h1 align="center">🎮 𝚆𝙴𝙻𝙲𝙾𝙼𝙴 ~ ようこそ 🎮</h1>
 
-<p align="left">
-  <img src="https://camo.githubusercontent.com/36601eb3ed85f37439a931a307232ca8e0eaacdac93d66cd32a94feb08200a56/68747470733a2f2f6d656469612e74656e6f722e636f6d2f4d536c73685a5336435659414141414d2f7361746f72752d676f6a6f2d2d2d636f7272656e646f2e676966" width="200" />
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" width="200" />
 </p>
 
 ---
