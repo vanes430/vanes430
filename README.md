@@ -38,5 +38,13 @@ quote: "Code what you love, love what you build."
 </p>
 
 ---
-
-> 🧠 _“Simplicity is the ultimate sophistication — even in server setups.”_
+<p align="center">
+  <img src="https://cdn-icons-png.flaticon.com/512/3573/3573187.png"/>
+  <img src="https://cdn-icons-png.flaticon.com/512/174/174854.png"/>
+  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968332.png"/>
+  <img src="https://cdn-icons-png.flaticon.com/512/732/732190.png"/>
+  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png"/>
+  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968381.png"/>
+  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png"/>
+  <img src="https://cdn-icons-png.flaticon.com/512/5486/5486216.png"/>
+</p>
