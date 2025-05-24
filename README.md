@@ -4,6 +4,17 @@
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"/>
 </p>
 
+<p align="center">
+  <img src="https://cdn-icons-png.flaticon.com/512/3573/3573187.png" width="50" style="filter: invert(1);"/>
+  <img src="https://cdn-icons-png.flaticon.com/512/174/174854.png" width="50" style="filter: invert(1);"/>
+  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968332.png" width="50" style="filter: invert(1);"/>
+  <img src="https://cdn-icons-png.flaticon.com/512/732/732190.png" width="50" style="filter: invert(1);"/>
+  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" width="50" style="filter: invert(1);"/>
+  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968381.png" width="50" style="filter: invert(1);"/>
+  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png" width="50" style="filter: invert(1);"/>
+  <img src="https://cdn-icons-png.flaticon.com/512/5486/5486216.png" width="50" style="filter: invert(1);"/>
+</p>
+
 ---
 
 ### 🧩 𝙋𝙍𝙊𝙁𝙄𝙇
@@ -38,13 +49,3 @@ quote: "Code what you love, love what you build."
 </p>
 
 ---
-<p align="center">
-  <img src="https://cdn-icons-png.flaticon.com/512/3573/3573187.png" width="100" style="filter: invert(1);"/>
-  <img src="https://cdn-icons-png.flaticon.com/512/174/174854.png" width="100" style="filter: invert(1);"/>
-  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968332.png" width="100" style="filter: invert(1);"/>
-  <img src="https://cdn-icons-png.flaticon.com/512/732/732190.png" width="100" style="filter: invert(1);"/>
-  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" width="100" style="filter: invert(1);"/>
-  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968381.png" width="100" style="filter: invert(1);"/>
-  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png" width="100" style="filter: invert(1);"/>
-  <img src="https://cdn-icons-png.flaticon.com/512/5486/5486216.png" width="100" style="filter: invert(1);"/>
-</p>
