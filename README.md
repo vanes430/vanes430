@@ -38,7 +38,7 @@ quote: "Code what you love, love what you build."
 
 ### 🔗 𝘾𝙊𝙉𝙉𝙀𝘾𝙏
 
-- 💬 Discord: `shimazu_009`
+- 💬 Discord: `exec_shimazu`
 - 🌐 Website: `soon`
 
 <p align="center">
