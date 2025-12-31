@@ -47,4 +47,5 @@ jobs:
           plugin_people_size: 28
           plugin_people_types: followers, following
           plugin_repositories: yes
+          plugin_repositories_featured: vanes430/java, vanes430/protection
           plugin_repositories_order: featured, pinned, starred, random
