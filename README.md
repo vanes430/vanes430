@@ -30,9 +30,7 @@ quote: "Code what you love, love what you build."
 
 ### 📊 𝙂𝙄𝙏𝙃𝙐𝘽 𝙎𝙏𝘼𝙏𝙎
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vanes430" />
-</p>
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=vanes430" alt="GitHub Streak" /></a>
 
 ---
 
