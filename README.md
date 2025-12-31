@@ -31,7 +31,7 @@ quote: "Code what you love, love what you build."
 ### 📊 𝙂𝙄𝙏𝙃𝙐𝘽 𝙎𝙏𝘼𝙏𝙎
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vanes430&show_icons=true&theme=tokyonight&bg_color=00000000" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vanes430" />
 </p>
 
 ---
